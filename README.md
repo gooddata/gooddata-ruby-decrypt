@@ -1,5 +1,7 @@
 # Gooddata::Crypto
 
+[![Gem Version](https://badge.fury.io/rb/gooddata-crypto.svg)](https://badge.fury.io/rb/gooddata-crypto)
+
 Simple library which usesl openssl to provide encryption and decryption functionality.
 
 ## Installation
