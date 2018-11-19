@@ -1,5 +1,8 @@
 # Gooddata::Crypto
 
+[![Gem Version](https://badge.fury.io/rb/gooddata-crypto.svg)](https://badge.fury.io/rb/gooddata-crypto)
+[![Build Status](https://travis-ci.org/gooddata/gooddata-ruby-decrypt.svg?branch=master)](https://travis-ci.org/gooddata/gooddata-ruby-decrypt)
+
 Simple library which usesl openssl to provide encryption and decryption functionality.
 
 ## Installation
